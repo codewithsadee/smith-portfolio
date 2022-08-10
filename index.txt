@@ -1,0 +1,224 @@
+Smith - Creative Designer Based In UK
+
+
+
+#---------- HEADER ----------#
+
+Smith
+
+Home
+Portfolio
+Skills
+Timeline
+Price
+News
+Contact
+
+aria-label = toggle menu
+
+
+
+#---------- HERO ----------#
+
+alt = Bernard Smith
+
+Bernard Smith
+
+Creative Designer Based In UK
+
+Web Development
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Digital Marketing
+Graphic Design
+
+10+
+Years of
+Experience
+ 
+3K+
+Happy
+Customers
+
+aria-label = scroll down
+
+<ion-icon name="arrow-down" aria-hidden="true"></ion-icon>
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+Selected Works
+
+alt = Magic Art
+
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Magic Art
+Vimeo
+
+Bona Green
+Youtube
+
+Leo Dandora
+Soundcloud
+
+Folio Grasia
+Detail
+
+Viva Mercury
+Image
+
+Santa Onera
+Image
+
+
+
+
+
+#---------- SKILLS ----------#
+
+Skills
+
+Programming Skills
+
+For more than 20 years our experts have been accomplishing enough with modern Web Development, new generation web and app programming language.
+
+HTML & CSS
+95%
+
+JavaScript
+80%
+
+WordPress
+90%
+
+
+
+#---------- HEADER ----------#
+
+Timeline
+
+Working Period
+
+April, 2019 - Today
+Head Designer & Co-founder
+Alan Klein Design, London
+
+September, 2018 - April, 2019
+Creative Director & Senior Designer
+Raxuna Poc, New York
+
+October, 2015 - September, 2018
+Head Designer
+Arimana Co. Ltd, Amsterdam
+
+July, 2012 - October, 2015
+Senior UX & UI Designer
+Baxdoro Design, London
+
+March, 2010 - July, 2012
+Junior UX Designer
+Simono Design Group, London
+
+
+
+#---------- PRICING ----------#
+
+Pricing
+
+Service Prices
+
+For more than 20 years our experts have been accomplishing enough with modern Web Development, new generation web and app programming language.
+
+<ion-icon name="logo-wordpress" aria-hidden="true"></ion-icon>
+WordPress Development
+$500
+
+<ion-icon name="logo-html5" aria-hidden="true"></ion-icon>
+HTML Development
+$400
+
+<ion-icon name="reader" aria-hidden="true"></ion-icon>
+Content Writing
+$300
+
+<ion-icon name="qr-code" aria-hidden="true"></ion-icon>
+Brand Identity
+$200
+
+<ion-icon name="image" aria-hidden="true"></ion-icon>
+PSD Design
+$100
+
+
+
+#---------- NEWS ----------#
+
+News
+
+Latest News
+
+alt = VS Code Gets New JavaScript Debugger
+
+September 02, 2022
+VS Code Gets New JavaScript Debugger
+
+alt = Javalin Framework for Kotlin and Java Updated
+
+August 17, 2022
+Javalin Framework for Kotlin and Java Updated
+
+alt = JavaScript Dominated Open Source in 2022
+
+July 05, 2022
+JavaScript Dominated Open Source in 2022
+
+atl = Perfecto Tests Progressive Web Apps
+
+April 22, 2022
+Perfecto Tests Progressive Web Apps
+
+
+
+#---------- CONTACT ----------#
+
+Contact
+
+Get In Touch
+
+Please fill out the form on this section to contact with me. Or call between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+27 City Walls Rd, Clydebank, UK
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++077 4269 1291
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+smith@gmail.com
+
+<ion-icon name="globe-outline" aria-hidden="true"></ion-icon>
+www.domain.com
+
+placeholder = Name
+placeholder = Email
+placeholder = Message
+
+Submit
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022. All rights reserved by codewithsadee.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+<ion-icon name="logo-tiktok"></ion-icon>
